@@ -37,12 +37,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/15lakshan/leetcode/tree/master/0007-reverse-integer) |
+| [0202-happy-number](https://github.com/15lakshan/leetcode/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/15lakshan/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/15lakshan/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/15lakshan/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0202-happy-number](https://github.com/15lakshan/leetcode/tree/master/0202-happy-number) |
 ## String Matching
 |  |
 | ------- |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/15lakshan/leetcode/tree/master/0190-reverse-bits) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/15lakshan/leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
