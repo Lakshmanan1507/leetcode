@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/15lakshan/leetcode/tree/master/0058-length-of-last-word) |
 | [0415-add-strings](https://github.com/15lakshan/leetcode/tree/master/0415-add-strings) |
 | [0742-to-lower-case](https://github.com/15lakshan/leetcode/tree/master/0742-to-lower-case) |
+| [0812-rotate-string](https://github.com/15lakshan/leetcode/tree/master/0812-rotate-string) |
 ## Trie
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/15lakshan/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0812-rotate-string](https://github.com/15lakshan/leetcode/tree/master/0812-rotate-string) |
 ## Tree
 |  |
 | ------- |
