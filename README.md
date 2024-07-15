@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/15lakshan/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/15lakshan/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/15lakshan/leetcode/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/15lakshan/leetcode/tree/master/0048-rotate-image) |
 ## Binary Search
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/15lakshan/leetcode/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/15lakshan/leetcode/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/15lakshan/leetcode/tree/master/0202-happy-number) |
 | [0415-add-strings](https://github.com/15lakshan/leetcode/tree/master/0415-add-strings) |
 ## Two Pointers
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/15lakshan/leetcode/tree/master/0415-add-strings) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/15lakshan/leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
