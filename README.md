@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/15lakshan/leetcode/tree/master/0415-add-strings) |
 | [0742-to-lower-case](https://github.com/15lakshan/leetcode/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/15lakshan/leetcode/tree/master/0812-rotate-string) |
+| [0889-buddy-strings](https://github.com/15lakshan/leetcode/tree/master/0889-buddy-strings) |
 ## Trie
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/15lakshan/leetcode/tree/master/0202-happy-number) |
+| [0889-buddy-strings](https://github.com/15lakshan/leetcode/tree/master/0889-buddy-strings) |
 ## Simulation
 |  |
 | ------- |
