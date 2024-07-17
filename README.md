@@ -61,10 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/15lakshan/leetcode/tree/master/0100-same-tree) |
+| [0110-balanced-binary-tree](https://github.com/15lakshan/leetcode/tree/master/0110-balanced-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/15lakshan/leetcode/tree/master/0100-same-tree) |
+| [0110-balanced-binary-tree](https://github.com/15lakshan/leetcode/tree/master/0110-balanced-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/15lakshan/leetcode/tree/master/0100-same-tree) |
+| [0110-balanced-binary-tree](https://github.com/15lakshan/leetcode/tree/master/0110-balanced-binary-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
