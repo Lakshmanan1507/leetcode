@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/15lakshan/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/15lakshan/leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/15lakshan/leetcode/tree/master/0048-rotate-image) |
+| [0136-single-number](https://github.com/15lakshan/leetcode/tree/master/0136-single-number) |
 | [0924-fair-candy-swap](https://github.com/15lakshan/leetcode/tree/master/0924-fair-candy-swap) |
 ## Binary Search
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/15lakshan/leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/15lakshan/leetcode/tree/master/0190-reverse-bits) |
 ## Hash Table
 |  |
