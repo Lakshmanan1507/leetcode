@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/15lakshan/leetcode/tree/master/0048-rotate-image) |
 | [0136-single-number](https://github.com/15lakshan/leetcode/tree/master/0136-single-number) |
 | [0924-fair-candy-swap](https://github.com/15lakshan/leetcode/tree/master/0924-fair-candy-swap) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/15lakshan/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Binary Search
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/15lakshan/leetcode/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/15lakshan/leetcode/tree/master/0202-happy-number) |
 | [0415-add-strings](https://github.com/15lakshan/leetcode/tree/master/0415-add-strings) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/15lakshan/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Two Pointers
 |  |
 | ------- |
