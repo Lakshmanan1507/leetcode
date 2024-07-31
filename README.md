@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/15lakshan/leetcode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/15lakshan/leetcode/tree/master/0048-rotate-image) |
 | [0136-single-number](https://github.com/15lakshan/leetcode/tree/master/0136-single-number) |
+| [0890-lemonade-change](https://github.com/15lakshan/leetcode/tree/master/0890-lemonade-change) |
 | [0924-fair-candy-swap](https://github.com/15lakshan/leetcode/tree/master/0924-fair-candy-swap) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/15lakshan/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/15lakshan/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -117,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/15lakshan/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Greedy
+|  |
+| ------- |
+| [0890-lemonade-change](https://github.com/15lakshan/leetcode/tree/master/0890-lemonade-change) |
 <!---LeetCode Topics End-->
