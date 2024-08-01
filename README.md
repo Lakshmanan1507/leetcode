@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/15lakshan/leetcode/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/15lakshan/leetcode/tree/master/0812-rotate-string) |
 | [0889-buddy-strings](https://github.com/15lakshan/leetcode/tree/master/0889-buddy-strings) |
+| [2727-number-of-senior-citizens](https://github.com/15lakshan/leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Trie
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/15lakshan/leetcode/tree/master/0890-lemonade-change) |
 | [0924-fair-candy-swap](https://github.com/15lakshan/leetcode/tree/master/0924-fair-candy-swap) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/15lakshan/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2727-number-of-senior-citizens](https://github.com/15lakshan/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/15lakshan/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Binary Search
 |  |
