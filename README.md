@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-fair-candy-swap](https://github.com/15lakshan/leetcode/tree/master/0924-fair-candy-swap) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/15lakshan/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2727-number-of-senior-citizens](https://github.com/15lakshan/leetcode/tree/master/2727-number-of-senior-citizens) |
+| [3397-find-the-integer-added-to-array-i](https://github.com/15lakshan/leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/15lakshan/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Binary Search
 |  |
