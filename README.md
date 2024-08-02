@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/15lakshan/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2727-number-of-senior-citizens](https://github.com/15lakshan/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/15lakshan/leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/15lakshan/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/15lakshan/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Binary Search
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/15lakshan/leetcode/tree/master/0202-happy-number) |
 | [0415-add-strings](https://github.com/15lakshan/leetcode/tree/master/0415-add-strings) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/15lakshan/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/15lakshan/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/15lakshan/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Two Pointers
 |  |
