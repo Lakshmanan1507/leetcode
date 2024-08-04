@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/15lakshan/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/15lakshan/leetcode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/15lakshan/leetcode/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/15lakshan/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/15lakshan/leetcode/tree/master/0415-add-strings) |
 | [0742-to-lower-case](https://github.com/15lakshan/leetcode/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/15lakshan/leetcode/tree/master/0812-rotate-string) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/15lakshan/leetcode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/15lakshan/leetcode/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/15lakshan/leetcode/tree/master/0202-happy-number) |
+| [0412-fizz-buzz](https://github.com/15lakshan/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/15lakshan/leetcode/tree/master/0415-add-strings) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/15lakshan/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/15lakshan/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/15lakshan/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/15lakshan/leetcode/tree/master/0415-add-strings) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/15lakshan/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Matrix
