@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/15lakshan/leetcode/tree/master/0812-rotate-string) |
 | [0889-buddy-strings](https://github.com/15lakshan/leetcode/tree/master/0889-buddy-strings) |
 | [2727-number-of-senior-citizens](https://github.com/15lakshan/leetcode/tree/master/2727-number-of-senior-citizens) |
+| [3379-score-of-a-string](https://github.com/15lakshan/leetcode/tree/master/3379-score-of-a-string) |
 ## Trie
 |  |
 | ------- |
