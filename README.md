@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/15lakshan/leetcode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/15lakshan/leetcode/tree/master/0812-rotate-string) |
 | [0889-buddy-strings](https://github.com/15lakshan/leetcode/tree/master/0889-buddy-strings) |
+| [1651-shuffle-string](https://github.com/15lakshan/leetcode/tree/master/1651-shuffle-string) |
 | [2727-number-of-senior-citizens](https://github.com/15lakshan/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3379-score-of-a-string](https://github.com/15lakshan/leetcode/tree/master/3379-score-of-a-string) |
 ## Trie
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/15lakshan/leetcode/tree/master/0136-single-number) |
 | [0890-lemonade-change](https://github.com/15lakshan/leetcode/tree/master/0890-lemonade-change) |
 | [0924-fair-candy-swap](https://github.com/15lakshan/leetcode/tree/master/0924-fair-candy-swap) |
+| [1651-shuffle-string](https://github.com/15lakshan/leetcode/tree/master/1651-shuffle-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/15lakshan/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2727-number-of-senior-citizens](https://github.com/15lakshan/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/15lakshan/leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
