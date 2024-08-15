@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/15lakshan/leetcode/tree/master/0890-lemonade-change) |
 | [0924-fair-candy-swap](https://github.com/15lakshan/leetcode/tree/master/0924-fair-candy-swap) |
 | [1651-shuffle-string](https://github.com/15lakshan/leetcode/tree/master/1651-shuffle-string) |
+| [1835-decode-xored-permutation](https://github.com/15lakshan/leetcode/tree/master/1835-decode-xored-permutation) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/15lakshan/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2727-number-of-senior-citizens](https://github.com/15lakshan/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/15lakshan/leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/15lakshan/leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/15lakshan/leetcode/tree/master/0190-reverse-bits) |
+| [1835-decode-xored-permutation](https://github.com/15lakshan/leetcode/tree/master/1835-decode-xored-permutation) |
 ## Hash Table
 |  |
 | ------- |
