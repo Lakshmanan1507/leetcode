@@ -10,10 +10,11 @@ class Solution {
     }
     static boolean iseven(int n){
         int count =0;
-        while(n>0){
-            n/=10;
-            count++;
-        }
+        // while(n>0){
+        //     n/=10;
+        //     count++;
+        // }
+        count = (int)(Math.log10(n)+1);
         return count%2==0;
     }
 }
