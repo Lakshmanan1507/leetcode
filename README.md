@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/15lakshan/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/15lakshan/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/15lakshan/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Lakshmanan1507/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/15lakshan/leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/15lakshan/leetcode/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/15lakshan/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/15lakshan/leetcode/tree/master/0041-first-missing-positive) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Lakshmanan1507/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/15lakshan/leetcode/tree/master/0202-happy-number) |
 | [0782-jewels-and-stones](https://github.com/15lakshan/leetcode/tree/master/0782-jewels-and-stones) |
 | [0889-buddy-strings](https://github.com/15lakshan/leetcode/tree/master/0889-buddy-strings) |
@@ -141,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0890-lemonade-change](https://github.com/15lakshan/leetcode/tree/master/0890-lemonade-change) |
+## Linked List
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Lakshmanan1507/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
