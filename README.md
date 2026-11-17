@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/15lakshan/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/15lakshan/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/15lakshan/leetcode/tree/master/0058-length-of-last-word) |
+| [0205-isomorphic-strings](https://github.com/Lakshmanan1507/leetcode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/15lakshan/leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/15lakshan/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/15lakshan/leetcode/tree/master/0415-add-strings) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/15lakshan/leetcode/tree/master/0041-first-missing-positive) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Lakshmanan1507/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/15lakshan/leetcode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/Lakshmanan1507/leetcode/tree/master/0205-isomorphic-strings) |
 | [0782-jewels-and-stones](https://github.com/15lakshan/leetcode/tree/master/0782-jewels-and-stones) |
 | [0889-buddy-strings](https://github.com/15lakshan/leetcode/tree/master/0889-buddy-strings) |
 | [0924-fair-candy-swap](https://github.com/15lakshan/leetcode/tree/master/0924-fair-candy-swap) |
